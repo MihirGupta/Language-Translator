@@ -1,5 +1,5 @@
 # Language-Translator-App
-Our first team project using java.
+Our school team project using java.
 
 Team Members 
 -Dhina Rajmohan
