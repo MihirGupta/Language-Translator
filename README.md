@@ -1,4 +1,4 @@
-# Language-Translator
+# Language-Translator-App
 Our first team project using java.
 
 Team Members 
