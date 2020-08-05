@@ -1,5 +1,6 @@
 # Language-Translator
-My first team project using java.
+Our first team project using java.
+
 Team Members 
 -Dhina Rajmohan
 -Mihir Gupta
