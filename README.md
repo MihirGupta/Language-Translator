@@ -1,2 +1,6 @@
 # Language-Translator
-My first team project with Dhina Rajmohan and Karthik Nayak
+My first team project using java
+Team Members 
+-Dhina Rajmohan
+-Mihir Gupta
+-Karthik Nayak
